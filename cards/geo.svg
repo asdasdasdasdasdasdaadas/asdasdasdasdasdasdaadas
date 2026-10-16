@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="176" viewBox="0 0 640 176" role="img" aria-label="IndieVPN-GEO">
+  <rect width="640" height="176" rx="16" fill="#171c24"/>
+  <rect x="0" y="28" width="4" height="120" fill="#d6b25e"/>
+  <text x="36" y="58" fill="#d6b25e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="3">XRAY</text>
+  <text x="36" y="104" fill="#f4f1ea" font-family="Georgia, 'Times New Roman', serif" font-size="32">IndieVPN-GEO</text>
+  <text x="36" y="140" fill="#a39e94" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">&#1056;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1080;&#1077; &#1089;&#1072;&#1081;&#1090;&#1099; &#1084;&#1080;&#1084;&#1086; VPN</text>
+</svg>
